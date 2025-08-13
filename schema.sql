@@ -1,6 +1,8 @@
+ --- arqv nulo 
+
 CREATE TABLE IF NOT EXISTS users(
     id INTEGER PRIMARY KEY AUTOINCREMENT,
     NOME TEXT NOT NULL,
     SENHA TEXT NOT NULL
 )
-
+    
